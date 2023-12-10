@@ -1,9 +1,7 @@
-3D CAD file (same model in several formats) for the Spine Decompression stand described in my blog: https://raphtronic.blogspot.com/2023/08/diy-simple-spine-decompression-station.html
+3D CAD and Print files (same models in several formats) for 3D printing filament Dry Box described in my blog: https://raphtronic.blogspot.com/2023/08/diy-simple-spine-decompression-station.html
+
+For a successful print the rollers must be printed vertically and with the 45 degrees bearing shoulder facing down. Instructions in the blog above.
 
 The Sketchup model (SKP & DAE files) is the master the others are converted from (those were not checked, might have issues?).
-
-This is a simple build based on 2x4s and 3/4" wood boards.
-
-Refer to the blog above for context and instructions.
 
 Happy build to all !
