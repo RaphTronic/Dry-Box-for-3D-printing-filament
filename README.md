@@ -1,8 +1,8 @@
-3D CAD and Print files (same models in several formats) for the 3D printing filament Dry Box described in my blog: https://raphtronic.blogspot.com/2023/12/diy-dry-box-for-3d-printing-filament.html
+3D CAD and Print files (same models in several formats) for the **3D printing filament Dry Box** described in my blog: https://raphtronic.blogspot.com/2023/12/diy-dry-box-for-3d-printing-filament.html
 
 For a successful print the rollers must be printed vertically and with the 45 degrees bearing shoulder facing down. Instructions in the blog above.
 
-The F3D Fusion 360 CAD files are the master files. The STEP files were used for 3D slicing & printing. All other file formats are derived from those (have not tested them all, so YMMV).
+The **F3D** Fusion 360 CAD files are the master files. The **STEP** files were used for 3D slicing & printing. All the other file formats were derived from those (have not tested them all, so YMMV).
 
 Happy build to all !
 
